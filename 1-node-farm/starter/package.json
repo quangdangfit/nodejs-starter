@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangdangfit/nodejs-starter.git"
+  },
+  "author": "Quang Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangdangfit/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/quangdangfit/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
